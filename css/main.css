@@ -6,6 +6,7 @@
 
 body {
   background: var(--bg);
+  font-family: et-book, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
   color: var(--text);
   margin: 0;
   line-height: 1.6;
